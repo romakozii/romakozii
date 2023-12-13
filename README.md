@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @romakozii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-romakozii/romakozii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Roman. I'm a PHP developer with several years of experience in the industry. I excel at creating custom software applications that solve complex problems and drive your business forward. My passion for helping clients through design and development drives me to create innovative solutions that not only meet their needs, but exceed their expectations.
+
+My expertise lies in building secure, scalable, and maintainable web applications using the Laravel framework. I am proficient in all aspects of Laravel development, from model-view-controller (MVC) architecture to database integration and API development. I am also familiar with various PHP frameworks and libraries, including Symfony, Zend Framework, and Composer.
+
+One of my proudest accomplishments is creating a cloud-based CRM for a real estate firm that streamlined their sales process by automatically sending emails to leads, scheduling appointments, and generating reports on property showings. In the healthcare industry, I've designed and developed several SaaS platforms for hospitals and health professionals. I also worked on a fintech project where I designed a web application that allowed users to manage their finances. I enjoy working in both B2B and B2C ERP environments, and have collaborated with clients in various industries to understand their unique needs and deliver tailored solutions.
+
+In addition to my technical skills, I'm passionate about helping clients solve their problems and providing personalized solutions. I communicate clearly and effectively, and I enjoy working with diverse teams. I'm excited about the opportunity to collaborate with you on your project and provide the high-quality design and development you deserve.
